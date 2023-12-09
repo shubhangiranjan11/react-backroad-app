@@ -4,10 +4,11 @@ const Hero = () => {
   return (
     <section className="hero" id="home">
    <div className="hero-banner">
-     <h1>Backroads App</h1>
+     <h1>Backroads Traveler</h1>
      <p>
-       Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-       explicabo debitis est autem dicta.
+       {/* Experience the world with ease. */}
+       {/* Make your Tour Amazing with us. */}
+       A great way to learn about your country is to leave it.
      </p>
      <a href="#tours" className="btn hero-btn">explore tours</a>
    </div>
@@ -16,3 +17,4 @@ const Hero = () => {
 }
 
 export default Hero;
+

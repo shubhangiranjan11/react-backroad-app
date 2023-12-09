@@ -1,5 +1,5 @@
 import React from 'react'
-import aboutImg from '../images/about.jpeg'
+import aboutImg from '../images/beach.jpg'
 import Title from './Title';
 
 const About = () => {
@@ -18,14 +18,14 @@ const About = () => {
      <article className="about-info">
        <h3>explore the difference</h3>
        <p>
-         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-         quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-         unde dolor?
+       Tourism is the activity of traveling to a place for pleasure.
+       Tourism mainly refers to the activity of traveling for pleasure.
        </p>
        <p>
-         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-         quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-         unde dolor?
+       Travel means to go on a journey, especially a long one.
+       Travel is a generic term that is commonly used in day to day life.
+       Travel changes you. As you move through this life and this world, you change things slightly, 
+       you leave marks behind, however small. And in return, life — and travel — leaves marks on you.
        </p>
        <a href="#about" className="btn">read more</a>
      </article>
@@ -36,3 +36,6 @@ const About = () => {
 }
 
 export default About;
+
+
+

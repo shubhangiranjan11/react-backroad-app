@@ -1,5 +1,6 @@
 import React from 'react'
 import { pageLinks, socialLinks } from '../data';
+
 const Footer = () => {
   return (
   <footer className="section footer">
@@ -25,10 +26,10 @@ const Footer = () => {
       </li>
       )
     })}
-   
+
    </ul>
    <p className="copyright">
-     copyright &copy; Backroads travel tours company
+     copyright &copy; Backroads traveler tours company
      <span id="date"></span> all rights reserved
    </p>
  </footer>
