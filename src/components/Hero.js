@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section className="hero" id="home">
    <div className="hero-banner">
-     <h1>Backroads ,Traveller</h1>
+     <h1>Backroads Traveller</h1>
      <p>
        {/* Experience the world with ease. */}
        {/* Make your Tour Amazing with us. */}
